@@ -1,0 +1,23 @@
+{
+  "name": "workbench",
+  "version": "1.0.0",
+  "description": "Built to assits you",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigDuro/workbench.git"
+  },
+  "keywords": [
+    "workbench",
+    "standards"
+  ],
+  "author": "bigDuro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigDuro/workbench/issues"
+  },
+  "homepage": "https://github.com/bigDuro/workbench#readme"
+}
